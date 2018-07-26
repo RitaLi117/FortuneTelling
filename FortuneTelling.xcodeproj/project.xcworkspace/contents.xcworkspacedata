@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:FortuneTelling.xcodeproj">
+      location = "self:/Users/leetsaiying/Desktop/FortuneTelling/FortuneTelling.xcodeproj">
    </FileRef>
 </Workspace>
